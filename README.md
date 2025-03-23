@@ -83,4 +83,4 @@ The app is deployed on Hugging Face Spaces. You can access it here.
 Pull requests are welcome!
 
 📬 Contact
-For any queries, reach out via email at your-rinsilanabeesa2002@gmail.com
+For any queries, reach out via email at rinsilanabeesa2002@gmail.com
