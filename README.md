@@ -42,30 +42,37 @@ Prerequisites
 Install Python (>=3.7)
 
 Get API keys from:
+
 NewsAPI
 GNews
 
 Steps to Run Locally
 
 Clone the repository:
+
 git clone https://github.com/Rinsila02/News-Sentiment-Analyzer.git  
 cd News-Sentiment-Analyzer  
 
 Create a virtual environment (optional but recommended):
+
 python -m venv venv  
 source venv/bin/activate  # For macOS/Linux  
 venv\Scripts\activate  # For Windows
 
 Install dependencies:
+
 pip install -r requirements.txt  
 
 Run the Streamlit app:
+
 streamlit run app.py  
 
-Open in browser: The app will start on http://localhost:8501.
+Open in browser:
+The app will start on http://localhost:8501.
 
 🏗️ Deployment (Hugging Face Spaces)
-The app is deployed on Hugging Face Spaces. You can access it here.
+The app is deployed on Hugging Face Spaces. You can access it here
+https://huggingface.co/spaces/Rinsila/Data_Analyst_2_0
 
 🤝 Contributing
 Pull requests are welcome!
