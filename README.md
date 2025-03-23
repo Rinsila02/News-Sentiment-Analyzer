@@ -38,42 +38,30 @@ googletrans
 
 🚀 Installation & Setup
 Prerequisites
+
 Install Python (>=3.7)
 
 Get API keys from:
-
 NewsAPI
-
 GNews
 
 Steps to Run Locally
-Clone the repository:
 
-bash
-Copy
-Edit
+Clone the repository:
 git clone https://github.com/Rinsila02/News-Sentiment-Analyzer.git  
 cd News-Sentiment-Analyzer  
-Create a virtual environment (optional but recommended):
 
-bash
-Copy
-Edit
+Create a virtual environment (optional but recommended):
 python -m venv venv  
 source venv/bin/activate  # For macOS/Linux  
-venv\Scripts\activate  # For Windows  
+venv\Scripts\activate  # For Windows
+
 Install dependencies:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt  
-Run the Streamlit app:
 
-bash
-Copy
-Edit
+Run the Streamlit app:
 streamlit run app.py  
+
 Open in browser: The app will start on http://localhost:8501.
 
 🏗️ Deployment (Hugging Face Spaces)
